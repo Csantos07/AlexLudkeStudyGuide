@@ -30,6 +30,7 @@ Here are some basic Git commands that you'll find useful:
 - `git checkout [branch-name]`: Switch to a different branch
 - `git merge [branch-name]`: Merge changes from a different branch
 
+- `git log`: see previous commits
 - `git status`: Shows what process of git we are in
 
 For more advanced Git commands and workflows, refer to the official [Git documentation](https://git-scm.com/doc).

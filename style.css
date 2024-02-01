@@ -1,0 +1,29 @@
+/* inline */
+/* block */
+div {
+  background-color: rgb(165, 42, 42);
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  margin: 100px;
+  padding: 100px;
+  display: inline-block;
+}
+
+.green {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+}
+
+.yellow {
+  background-color: rgb(162, 202, 2);
+  height: 100px;
+  width: 100px;
+}
+
+.purple {
+  background-color: #9802ca;
+  height: 100px;
+  width: 100px;
+}

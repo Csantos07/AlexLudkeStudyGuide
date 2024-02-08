@@ -12,3 +12,10 @@
 // }
 
 console.log((101 % 2) === 0) // this checks to see if something is even
+
+// Data types
+// Strings
+// Numbers
+// Booleans
+// Arrays
+// Objects
